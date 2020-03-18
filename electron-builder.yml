@@ -1,0 +1,4 @@
+appId: com.moitele.ElectronAutoUpdate
+publish:
+  provider: github
+  token: ff70d3334603b368d05c131bbb24d8fe8911e644
